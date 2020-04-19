@@ -1,5 +1,5 @@
 /*--=====================================
-				        Location
+		Location
 ======================================--*/
 if ("geolocation" in navigator) {
   // console.log("Localización disponible");
